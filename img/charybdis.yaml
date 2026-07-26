@@ -13,7 +13,7 @@ layers:
   - '9'
   - '0'
   - A
-  - Alt+Tab
+  - {t: Tab, h: sp}
   - Q
   - W
   - E
@@ -48,7 +48,7 @@ layers:
   - ','
   - .
   - {t: '?', h: sp}
-  - A
+  - Gui+D
   - Space
   - Enter
   - {t: Alt, h: Mouse}
@@ -70,9 +70,9 @@ layers:
   - (
   - )
   - '|'
-  - '`'
+  - {t: '`', type: held}
   - '1'
-  - '2'
+  - ↑
   - '3'
   - BT NXT
   - BT CLR
@@ -83,9 +83,9 @@ layers:
   - F4
   - BSPC
   - LSHFT
-  - '5'
-  - '6'
-  - '7'
+  - ←
+  - ↓
+  - →
   - BT PRV
   - BT CLR ALL
   - BT CLR ALL
@@ -95,7 +95,7 @@ layers:
   - F8
   - PgUp
   - Ctrl
-  - {t: '9', type: held}
+  - '9'
   - '0'
   - '-'
   - '='
