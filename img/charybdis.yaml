@@ -53,7 +53,7 @@ layers:
   - Enter
   - {t: Alt, h: Mouse}
   - '='
-  - DEL
+  - BSPC
   - '&mkp LCLK'
   - '&mkp RCLK'
   - '-'
