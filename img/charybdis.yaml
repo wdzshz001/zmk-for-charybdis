@@ -12,8 +12,8 @@ layers:
   - '8'
   - '9'
   - '0'
-  - A
-  - {t: Tab, h: sp}
+  - BSPC
+  - Alt+Tab
   - Q
   - W
   - E
@@ -24,8 +24,8 @@ layers:
   - I
   - O
   - P
-  - A
-  - Shift
+  - CAPSLOCK
+  - Ctrl
   - A
   - S
   - D
@@ -36,8 +36,8 @@ layers:
   - K
   - L
   - ':'
-  - A
-  - Ctrl
+  - →
+  - Shift
   - {t: Z, h: sp}
   - X
   - C
@@ -70,7 +70,7 @@ layers:
   - (
   - )
   - '|'
-  - {t: '`', type: held}
+  - Tab
   - '1'
   - ↑
   - '3'
@@ -95,7 +95,7 @@ layers:
   - F8
   - PgUp
   - Ctrl
-  - '9'
+  - {t: '9', type: held}
   - '0'
   - '-'
   - '='
